@@ -145,6 +145,15 @@ figcaption {
 	.container_ul_user img {
 		width: 120px;
 	}
+
+	figure:hover {
+		border: 1px solid grey;
+	}
+
+	.container_footer:hover {
+		background-color: gray;
+	}
+	
 }
 
 @media (min-width: 1024px) {
@@ -177,5 +186,13 @@ figcaption {
 
 	.container_ul_user img {
 		width: 186px;
+	}
+
+	figure:hover {
+		border: 1px solid grey;
+	}
+
+	.container_footer:hover {
+		background-color: gray;
 	}
 }

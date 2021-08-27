@@ -92,7 +92,7 @@ figcaption {
 }
 
 .container_addPerfil img {
-    width: 100px;
+    width: calc(100px - 40%);
 	position: relative;
 	top: 50%;
 	left: 50%;
@@ -139,7 +139,7 @@ figcaption {
 	}
 
 	.container_addPerfil img {
-		width: 120px;
+		width: calc(120px - 40%);
 	}
 
 	.container_ul_user img {
@@ -172,7 +172,7 @@ figcaption {
 	}
 
     .container_addPerfil img {
-		width: 186px;
+		width: auto;
 	}
 
 	.container_ul_user img {

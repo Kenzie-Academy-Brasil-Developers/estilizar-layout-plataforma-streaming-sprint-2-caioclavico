@@ -119,6 +119,10 @@ figcaption {
 	padding: .5em 1.5em;
 }
 
+figure {
+	border: 1px solid transparent;
+}
+
 @media (min-width: 768px) {
 
     .container_topo img {
